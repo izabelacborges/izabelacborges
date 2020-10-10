@@ -17,7 +17,14 @@ Right now I'm based in Brazil and I'm currently working at iFood, the lead compa
 - 💬 Fun fact: being a DM for TTRPGs and writing fiction was one of the most useful things when improving my data storytelling
 - 👶🏽 Pronouns: she/her/they/them
 
-![Bela's github stats](https://github-readme-stats.vercel.app/api?username=izabelacborges&count_private=true&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izabelacborges&layout=compact&langs_count=6&theme=buefy)
+<summary>:zap: Github Stats</summary>
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="420" align="left" alt="Bela's Github Stats" src="https://github-readme-stats.vercel.app/api?username=izabelacborges&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" alt="Bela's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelacborges&layout=compact&langs_count=6&theme=buefy&hide_border=true" />
+  </a>
+</p>
 
 <!--START_SECTION:activity-->
