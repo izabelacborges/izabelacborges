@@ -17,9 +17,7 @@ Right now I'm based in Brazil and I'm currently working at iFood, the lead compa
 - 💬 Fun fact: being a DM for TTRPGs and writing fiction was one of the most useful things when improving my data storytelling
 - 👶🏽 Pronouns: she/her/they/them
 
----
+![Bela's github stats](https://github-readme-stats.vercel.app/api?username=izabelacborges&count_private=true&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izabelacborges&layout=compact&langs_count=6&theme=buefy)
 
 <!--START_SECTION:activity-->
-
-
-> Izabela Borges 😉
