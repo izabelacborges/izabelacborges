@@ -21,6 +21,5 @@ Right now I'm based in Brazil and I'm currently working at iFood, the lead compa
 
 <!--START_SECTION:activity-->
 
----
 
 > Izabela Borges 😉
