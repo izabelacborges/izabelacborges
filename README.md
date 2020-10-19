@@ -28,3 +28,6 @@ Right now I'm based in Brazil and I'm currently working at iFood, the lead compa
 </p>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/izabelacborges/hacktoberfest2020-at-pucminas/pull/1) in [izabelacborges/hacktoberfest2020-at-pucminas](https://github.com/izabelacborges/hacktoberfest2020-at-pucminas)
+2. 💪 Opened PR [#1](https://github.com/izabelacborges/hacktoberfest2020-at-pucminas/pull/1) in [izabelacborges/hacktoberfest2020-at-pucminas](https://github.com/izabelacborges/hacktoberfest2020-at-pucminas)
+<!--END_SECTION:activity-->
