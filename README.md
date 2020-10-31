@@ -18,7 +18,7 @@ Right now I'm based in Brazil and I'm currently working at iFood, the lead compa
 - 👶🏽 Pronouns: she/her/they/them
 
 ## :zap: Github Stats
-<p align="left">
+<p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="420" align="left" alt="Bela's Github Stats" src="https://github-readme-stats.vercel.app/api?username=izabelacborges&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
   </a>
@@ -27,6 +27,7 @@ Right now I'm based in Brazil and I'm currently working at iFood, the lead compa
   </a>
 </p>
 
+## 💻 Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/izabelacborges/hacktoberfest2020-at-pucminas/pull/1) in [izabelacborges/hacktoberfest2020-at-pucminas](https://github.com/izabelacborges/hacktoberfest2020-at-pucminas)
 2. 💪 Opened PR [#1](https://github.com/izabelacborges/hacktoberfest2020-at-pucminas/pull/1) in [izabelacborges/hacktoberfest2020-at-pucminas](https://github.com/izabelacborges/hacktoberfest2020-at-pucminas)
