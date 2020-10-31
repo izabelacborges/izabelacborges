@@ -26,6 +26,7 @@ Right now I'm based in Brazil and I'm currently working at iFood, the lead compa
     <img align="left" alt="Bela's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelacborges&layout=compact&langs_count=6&theme=buefy&hide_border=true" />
   </a>
 </p>
+<br>
 
 ## 💻 Activity
 <!--START_SECTION:activity-->
