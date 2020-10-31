@@ -19,7 +19,6 @@ Right now I'm based in Brazil and I'm currently working at iFood, the lead compa
 
 <details open>
  <summary> ⚡ <b>Github Stats</b>: </summary>
-<br>
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="420" align="left" alt="Bela's Github Stats" src="https://github-readme-stats.vercel.app/api?username=izabelacborges&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
@@ -27,15 +26,11 @@ Right now I'm based in Brazil and I'm currently working at iFood, the lead compa
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" alt="Bela's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelacborges&layout=compact&langs_count=6&theme=buefy&hide_border=true" />
   </a>
-  <br>
 </p>
 </details>
 
-<details open>
- <summary> 💻 <b>Activity</b>: </summary>
-<br>
+### 💻 Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/izabelacborges/hacktoberfest2020-at-pucminas/pull/1) in [izabelacborges/hacktoberfest2020-at-pucminas](https://github.com/izabelacborges/hacktoberfest2020-at-pucminas)
 2. 💪 Opened PR [#1](https://github.com/izabelacborges/hacktoberfest2020-at-pucminas/pull/1) in [izabelacborges/hacktoberfest2020-at-pucminas](https://github.com/izabelacborges/hacktoberfest2020-at-pucminas)
 <!--END_SECTION:activity-->
-</details>
