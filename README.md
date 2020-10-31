@@ -19,8 +19,6 @@ Right now I'm based in Brazil and I'm currently working at iFood, the lead compa
 
 ## 💻 Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/izabelacborges/izabelacborges/pull/2) in [izabelacborges/izabelacborges](https://github.com/izabelacborges/izabelacborges)
-2. 💪 Opened PR [#2](https://github.com/izabelacborges/izabelacborges/pull/2) in [izabelacborges/izabelacborges](https://github.com/izabelacborges/izabelacborges)
 <!--END_SECTION:activity-->
 
 ## ⚡ Github Stats
