@@ -1,8 +1,8 @@
 name: Update README
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every hour between 5am and 5pm UTC time
+    - cron: '0 5-17 * * *'
   workflow_dispatch:
 
 jobs:
