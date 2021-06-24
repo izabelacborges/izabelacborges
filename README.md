@@ -1,7 +1,7 @@
 # Hello there, I'm Izabela! 👋🏽
 
 [![Linkedin Badge](https://img.shields.io/badge/-izabelacborges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izabelacborges/)](https://www.linkedin.com/in/izabelacborges/)
-[![Gmail Badge](https://img.shields.io/badge/-to.izabelacborges@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:to.izabelacborges@gmail.com)](mailto:to.izabelacborges@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/izabelacborges@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:izabelacborges@gmail.com)](mailto:izabelacborges@gmail.com)
 
 I'm a Data Scientist with interest in developing projects that promote positive impact on our society. Far from doing cool things with lots of data, I want to make the lives of people in my community better, using those lots of data.
 
