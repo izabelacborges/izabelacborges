@@ -1,18 +1,19 @@
 # Hello there, I'm Izabela! 👋🏽
 
-[![Linkedin Badge](https://img.shields.io/badge/-izabelacborges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izabelacborges/)](https://www.linkedin.com/in/izabelacborges/)
-[![Gmail Badge](https://img.shields.io/badge/-to.izabelacborges@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:to.izabelacborges@gmail.com)](mailto:to.izabelacborges@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-izabelacborges-blue?style=social&logo=Linkedin&logoColor=#0A66C2&link=https://www.linkedin.com/in/izabelacborges/)](https://www.linkedin.com/in/izabelacborges/)
+[![Gmail Badge](https://img.shields.io/badge/-to.izabelacborges@gmail.com-c14438?style=social&logo=Gmail&logoColor=#EA4335&link=mailto:to.izabelacborges@gmail.com)](mailto:to.izabelacborges@gmail.com)
 
-I'm a Data Scientist with interest in developing projects that promote positive impact on our society. Far from doing cool things with lots of data, I want to make the lives of people in my community better, using those lots of data.
+I recently experienced a career change, as I was unfortunately made redundant in October 2022. Instead of jumping into another role right away, I took the opportunity to focus on my health and reevaluate my priorities. I wanted to take a step back and think about where I am now and where I want to be going forward.
 
-I also love teaching what I can to other people interested in tech, and in the past few years I've been focused on giving talks and classes about programming logic, the Python language, machine learning, git and open source initiatives.
+Now, with my priorities in order, I am excited to apply what I’ve learned to new opportunities and projects. I am also looking forward to giving talks and workshops again and sharing my knowledge and experiences with others.
 
-Right now I'm based in Brazil and I'm currently working at iFood, the lead company in the food delivery segment in Latin America. But previous to that, I not only worked in the data and artificial intelligence scene, but I started with QA & DevOps, what I believe helped me a lot with developing more reliable and robust solutions.
+## Things I'm learning right now
+- My [personal blog](https://izabelacborges.github.io) is a recent project into learning Golang, the Hugo framework and getting a refresh of some web technologies (JavaScript, HTML, CSS)
+- Strengthening my base of machine learning algorithms following the Machine Learning Specialization on deeplearning.ai
+- Diving into software engineering, system design, microservices and continuous integration
 
-- 🔭  I’m currently focused on working with huge datasets, producing solutions based on eating habits and food culture (human quirks around and about food are indeed pretty interesting!)
-- 🌱  I’m currently learning more about AWS workflows and architecture
-- ⚡  Main skills used at the moment:
-  - Python | PySpark | R | Go | SageMaker | Data Storytelling
+⚡  **Main skills used at the moment:**
+Python | PySpark | Java | Go | Docker | Kubernetes
 
 - 💬  Fun fact: being a DM for TTRPGs and writing fiction was one of the most useful things when improving my data storytelling
 - 🔖  Need git tips fast? Go look at [GitFichas](https://gitfichas.com/) from [@jtemporal](https://github.com/jtemporal) (🇧🇷  Portuguese only resource)
