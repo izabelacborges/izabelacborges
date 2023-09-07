@@ -1,7 +1,7 @@
 # Hello there, I'm Izabela! 👋🏽
 
 [![Linkedin Badge](https://img.shields.io/badge/-izabelacborges-blue?style=social&logo=Linkedin&logoColor=#0A66C2&link=https://www.linkedin.com/in/izabelacborges/)](https://www.linkedin.com/in/izabelacborges/)
-[![Gmail Badge](https://img.shields.io/badge/-to.izabelacborges@gmail.com-c14438?style=social&logo=Gmail&logoColor=#EA4335&link=mailto:to.izabelacborges@gmail.com)](mailto:to.izabelacborges@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-hello@izabelacborges.dev-c14438?style=social&logo=Gmail&logoColor=#EA4335&link=mailto:hello@izabelacborges.dev)](mailto:hello@izabelacborges.dev)
 
 I recently experienced a career change, as I was unfortunately made redundant in October 2022. Instead of jumping into another role right away, I took the opportunity to focus on my health and reevaluate my priorities. I wanted to take a step back and think about where I am now and where I want to be going forward.
 
@@ -9,8 +9,8 @@ Now, with my priorities in order, I am excited to apply what I’ve learned to n
 
 ## Things I'm learning right now
 - My [personal blog](https://izabelacborges.github.io) is a recent project into learning Golang, the Hugo framework and getting a refresh of some web technologies (JavaScript, HTML, CSS)
-- Strengthening my base of machine learning algorithms following the Machine Learning Specialization on deeplearning.ai
-- Diving into software engineering, system design, microservices and continuous integration
+- Strengthening my base of machine learning algorithms following the Machine Learning Specialization on [deeplearning.ai](https://www.deeplearning.ai/courses/machine-learning-specialization/)
+- Diving into Data Engineering and the design of data pipelines
 
 ⚡  **Main skills used at the moment:**
 Python | PySpark | Java | Go | Docker | Kubernetes
